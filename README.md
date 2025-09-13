@@ -1,6 +1,6 @@
 # Algaritimos e tecnicas de programação - Graduação em Sistemas de Informação
 
-Este diretório contém materiais, exercícios, projetos e anotações referentes à disciplina **[Algaritimos e tecnicas de programação]** do curso de graduação em Sistemas de Informação. O objetivo deste repositório é documentar minha jornada de aprendizado, consolidar conhecimentos e compartilhar minhas experiências durante o semestre.
+Este diretório contém materiais, exercícios, projetos e anotações referentes à disciplina Algaritimos e tecnicas de programação do curso de graduação em Sistemas de Informação. O objetivo deste repositório é documentar minha jornada de aprendizado, consolidar conhecimentos e compartilhar minhas experiências durante o semestre.
 
 ## Estrutura do Repositório
 
