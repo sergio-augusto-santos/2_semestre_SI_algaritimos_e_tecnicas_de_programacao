@@ -1,0 +1,101 @@
+# ============================================
+# Node.js / JavaScript
+# Ignora dependências, builds e arquivos de lock
+# Ignore dependencies, build folders, and lock files
+# ============================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+dist/
+build/
+
+# ============================================
+# Java
+# Ignora classes compiladas, pacotes e pastas de build
+# Ignore compiled classes, packages, and build folders
+# ============================================
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+target/
+.gradle/
+build/
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# ============================================
+# C
+# Ignora arquivos compilados, objetos e executáveis
+# Ignore compiled files, object files, and executables
+# ============================================
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.dylib
+
+# ============================================
+# C# (Bônus)
+# Ignora pastas de build, binários e configs temporárias
+# Ignore build folders, binaries, and temporary configs
+# ============================================
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.mdb
+*.user
+*.suo
+*.csproj.user
+*.vs/
+*.vscode/
+
+# ============================================
+# IDEs / Editores
+# Ignora arquivos de configuração de IDEs
+# Ignore IDE/editor configuration files
+# ============================================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ============================================
+# Logs
+# Ignora arquivos de log e temporários de execução
+# Ignore log files and runtime temp files
+# ============================================
+logs/
+*.log
+*.log.*
+*.out
+*.pid
+*.seed
+*.tgz
+
+# ============================================
+# Outros / Others
+# Arquivos temporários e do sistema operacional
+# Temporary files and OS-generated files
+# ============================================
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
