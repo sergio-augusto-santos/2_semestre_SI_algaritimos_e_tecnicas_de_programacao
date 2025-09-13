@@ -1,6 +1,6 @@
-# Nome da Disciplina - Graduação em Sistemas de Informação
+# Algaritimos e tecnicas de programação - Graduação em Sistemas de Informação
 
-Este diretório contém materiais, exercícios, projetos e anotações referentes à disciplina **[Nome da Disciplina]** do curso de graduação em Sistemas de Informação. O objetivo deste repositório é documentar minha jornada de aprendizado, consolidar conhecimentos e compartilhar minhas experiências durante o semestre.
+Este diretório contém materiais, exercícios, projetos e anotações referentes à disciplina **[Algaritimos e tecnicas de programação]** do curso de graduação em Sistemas de Informação. O objetivo deste repositório é documentar minha jornada de aprendizado, consolidar conhecimentos e compartilhar minhas experiências durante o semestre.
 
 ## Estrutura do Repositório
 
@@ -10,7 +10,10 @@ Este diretório contém materiais, exercícios, projetos e anotações referente
 
 ## Sobre a Disciplina
 
-A disciplina aborda temas fundamentais para a formação em Sistemas de Informação, incluindo [descrever brevemente os tópicos principais, exemplo: algoritmos, lógica de programação, técnicas de resolução de problemas, boas práticas de desenvolvimento, etc.].
+A disciplina aborda temas fundamentais para a formação em Sistemas de Informação, incluindo.
+logica de programação; 
+programação em linguagem C;
+tecnicas de pesistencia
 
 ## Objetivo
 
@@ -18,9 +21,9 @@ Registrar e compartilhar o desenvolvimento das competências adquiridas ao longo
 
 ## Autor
 
-- **Nome:** [Seu Nome]
+- **Nome:** Sergio Augusto Santos Amaral
 - **Curso:** Sistemas de Informação
-- **Instituição:** [Nome da Instituição]
+- **Instituição:** Anhanguera
 
 ---
 
